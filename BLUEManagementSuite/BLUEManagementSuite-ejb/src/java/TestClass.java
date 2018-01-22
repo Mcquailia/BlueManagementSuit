@@ -10,4 +10,6 @@
  */
 public class TestClass {
     
+    
+    static final int LOLOLOOL = 10;
 }
